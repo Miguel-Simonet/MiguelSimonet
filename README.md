@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🚀 Lenguajes: <strong> HTML,CSS,JavaScript,SQL,PHP,Boostrap.</strong>
+  🚀 Lenguajes: <strong> HTML,CSS,JavaScript,Transact-SQL,PHP,Boostrap,MongoDB,Azure.</strong>
 </p>
 
 <p align="left">
