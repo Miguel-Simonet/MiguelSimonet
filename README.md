@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  🚀 Lenguajes: <strong> HTML,CSS,JavaScript,Transact-SQL,PHP,Boostrap,MongoDB,Azure.</strong>
+  🚀 Lenguajes: <strong> HTML, CSS, JavaScript, Transact-SQL, PHP, Boostrap.</strong>
 </p>
 
 <p align="left">
-  💼 Herramientas: <strong>VSCode, Trello, GitHub, Git.</strong>
+  💼 Herramientas: <strong>VSCode, Trello, GitHub, Git MongoDB, Azure.</strong>
 </p>
 
 <p align="left">
