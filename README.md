@@ -17,10 +17,10 @@
   💬 Cualquier cosa no olvides contactar conmigo: ⤵️
 </p>
 
+<p align="left">
   <a href="#" alt="Linkedin">
   <img src="https://camo.githubusercontent.com/fcc551d4cff1847eb5a8ee518859132d52149a6db9f37833fdbea96451684bb6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564696e2d3143314331433f7374796c653d666f722d7468652d6261646765266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d303046464646266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f69757269636f6465" /></a>
 
-<p align="left">
   <a href="#" alt="Twitter">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   
