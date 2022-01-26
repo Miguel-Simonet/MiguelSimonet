@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Hola,mi nombre es Miguel Simonet, y soy <strong>Administrador de Sistemas Operativos y Desearollador de Front-End y Back-End</strong>.<br>
+  Hola,mi nombre es Miguel Simonet, y soy <strong>Administrador de Sistemas Operativos y Desarollador de Front-End y Back-End</strong>.<br>
   Actualmente estoy estudiando.
 </p>
 
