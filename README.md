@@ -6,7 +6,7 @@ Hola,mi nombre es Miguel Simonet, y soy <strong>Administrador de Sistemas Operat
 </p>
 
 <p align="left">
-  🚀 Lenguajes: <strong> HTML, CSS, JavaScript, Transact-SQL, PHP, Boostrap.</strong>
+  🚀 Lenguajes: <strong> HTML, CSS, JavaScript, Transact-SQL, PHP, Boostrap, Python.</strong>
 </p>
 
 <p align="left">
