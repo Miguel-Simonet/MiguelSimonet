@@ -1,6 +1,6 @@
-# Hi there, I'm Miguel - aka [codeSTACKr][youtube] 👋 
+# Hi there, I'm Miguel 👋 
 
-## I'm a Data Base, Developer!!
+## I'm a DataBase, Developer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
