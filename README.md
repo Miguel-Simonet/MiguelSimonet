@@ -3,7 +3,7 @@
 ## I'm a DataBase, Developer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other on other projects 
 - 🥅 2023 Goals: Learn more about React
 - ⚡ Fun fact: I love to play videogames
 
