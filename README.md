@@ -12,11 +12,11 @@
 
 ###
 
-<h3 align="left">🛠️ Technologies and Tools</h3>
+<h2 align="left">🛠️ Technologies and Tools</h2>
 
 ###
 
-<h4 align="left">🗄️ Databases</h4>
+<h3 align="left">🗄️ Databases</h3>
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 
-<h4 align="left">💻 Programming Languages</h4>
+<h3 align="left">💻 Programming Languages</h3>
 
 ###
 
@@ -70,7 +70,7 @@
 
 ###
 
-<h4 align="left">🛠️ Other Technologies</h4>
+<h3 align="left">🛠️ Other Technologies</h3>
 
 ###
 
